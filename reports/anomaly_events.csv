@@ -1,0 +1,82 @@
+building,ground_truth,event_date,start_time,end_time,alert_hours,excess_kwh,estimated_cost_aed,estimated_co2e_kg,likely_cause,advisor_note,needs_human_review,advisor_mode
+Building-A,overnight_ac,2026-02-10,2026-02-10 00:00:00,2026-02-10 05:00:00,6,134.563,40.3689,53.8252,overnight cooling load,"Building: Building-A
+Window: 2026-02-10 00:00:00 to 2026-02-10 05:00:00
+Recommendation: Investigate overnight cooling load; review the meter trend and operating schedule. Potential excess is 134.6 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-A,overnight_ac,2026-02-11,2026-02-11 00:00:00,2026-02-11 05:00:00,6,133.3815,40.01445,53.3526,overnight cooling load,"Building: Building-A
+Window: 2026-02-11 00:00:00 to 2026-02-11 05:00:00
+Recommendation: Investigate overnight cooling load; review the meter trend and operating schedule. Potential excess is 133.4 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-A,overnight_ac,2026-02-12,2026-02-12 00:00:00,2026-02-12 05:00:00,6,135.01600000000002,40.5048,54.006400000000006,overnight cooling load,"Building: Building-A
+Window: 2026-02-12 00:00:00 to 2026-02-12 05:00:00
+Recommendation: Investigate overnight cooling load; review the meter trend and operating schedule. Potential excess is 135.0 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-A,overnight_ac,2026-02-13,2026-02-13 00:00:00,2026-02-13 05:00:00,6,139.01,41.702999999999996,55.604,overnight cooling load,"Building: Building-A
+Window: 2026-02-13 00:00:00 to 2026-02-13 05:00:00
+Recommendation: Investigate overnight cooling load; review the meter trend and operating schedule. Potential excess is 139.0 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-A,overnight_ac,2026-02-14,2026-02-14 00:00:00,2026-02-14 05:00:00,6,143.394,43.0182,57.357600000000005,overnight cooling load,"Building: Building-A
+Window: 2026-02-14 00:00:00 to 2026-02-14 05:00:00
+Recommendation: Investigate overnight cooling load; review the meter trend and operating schedule. Potential excess is 143.4 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-A,overnight_ac,2026-02-15,2026-02-15 00:00:00,2026-02-15 05:00:00,6,136.309,40.8927,54.5236,overnight cooling load,"Building: Building-A
+Window: 2026-02-15 00:00:00 to 2026-02-15 05:00:00
+Recommendation: Investigate overnight cooling load; review the meter trend and operating schedule. Potential excess is 136.3 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-A,overnight_ac,2026-02-16,2026-02-16 00:00:00,2026-02-16 05:00:00,6,135.02300000000002,40.5069,54.00920000000001,overnight cooling load,"Building: Building-A
+Window: 2026-02-16 00:00:00 to 2026-02-16 05:00:00
+Recommendation: Investigate overnight cooling load; review the meter trend and operating schedule. Potential excess is 135.0 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-A,overnight_ac,2026-02-17,2026-02-17 00:00:00,2026-02-17 05:00:00,6,131.798,39.53939999999999,52.7192,overnight cooling load,"Building: Building-A
+Window: 2026-02-17 00:00:00 to 2026-02-17 05:00:00
+Recommendation: Investigate overnight cooling load; review the meter trend and operating schedule. Potential excess is 131.8 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-A,overnight_ac,2026-02-18,2026-02-18 00:00:00,2026-02-18 05:00:00,6,139.40449999999998,41.821349999999995,55.7618,overnight cooling load,"Building: Building-A
+Window: 2026-02-18 00:00:00 to 2026-02-18 05:00:00
+Recommendation: Investigate overnight cooling load; review the meter trend and operating schedule. Potential excess is 139.4 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-A,overnight_ac,2026-02-19,2026-02-19 00:00:00,2026-02-19 05:00:00,6,136.839,41.051700000000004,54.735600000000005,overnight cooling load,"Building: Building-A
+Window: 2026-02-19 00:00:00 to 2026-02-19 05:00:00
+Recommendation: Investigate overnight cooling load; review the meter trend and operating schedule. Potential excess is 136.8 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-C,sensor_spike,2026-02-25,2026-02-25 14:00:00,2026-02-25 14:00:00,1,74.386,22.3158,29.7544,possible sensor spike,"Building: Building-C
+Window: 2026-02-25 14:00:00 to 2026-02-25 14:00:00
+Recommendation: Investigate possible sensor spike; review the meter trend and operating schedule. Potential excess is 74.4 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-C,sensor_spike,2026-03-12,2026-03-12 11:00:00,2026-03-12 11:00:00,1,77.317,23.195099999999996,30.9268,possible sensor spike,"Building: Building-C
+Window: 2026-03-12 11:00:00 to 2026-03-12 11:00:00
+Recommendation: Investigate possible sensor spike; review the meter trend and operating schedule. Potential excess is 77.3 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-C,sensor_spike,2026-03-25,2026-03-25 16:00:00,2026-03-25 16:00:00,1,78.08099999999999,23.424299999999995,31.2324,possible sensor spike,"Building: Building-C
+Window: 2026-03-25 16:00:00 to 2026-03-25 16:00:00
+Recommendation: Investigate possible sensor spike; review the meter trend and operating schedule. Potential excess is 78.1 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-E,gradual_drift,2026-03-18,2026-03-18 08:00:00,2026-03-18 08:00:00,1,8.058999999999997,2.417699999999999,3.2235999999999994,gradual consumption increase,"Building: Building-E
+Window: 2026-03-18 08:00:00 to 2026-03-18 08:00:00
+Recommendation: Investigate gradual consumption increase; review the meter trend and operating schedule. Potential excess is 8.1 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-E,gradual_drift,2026-03-19,2026-03-19 19:00:00,2026-03-19 19:00:00,1,9.295000000000002,2.7885000000000004,3.718000000000001,gradual consumption increase,"Building: Building-E
+Window: 2026-03-19 19:00:00 to 2026-03-19 19:00:00
+Recommendation: Investigate gradual consumption increase; review the meter trend and operating schedule. Potential excess is 9.3 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-E,gradual_drift,2026-03-20,2026-03-20 00:00:00,2026-03-20 18:00:00,4,36.498999999999974,10.949699999999993,14.59959999999999,gradual consumption increase,"Building: Building-E
+Window: 2026-03-20 00:00:00 to 2026-03-20 18:00:00
+Recommendation: Investigate gradual consumption increase; review the meter trend and operating schedule. Potential excess is 36.5 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-E,gradual_drift,2026-03-21,2026-03-21 10:00:00,2026-03-21 10:00:00,1,9.020000000000003,2.706000000000001,3.6080000000000014,gradual consumption increase,"Building: Building-E
+Window: 2026-03-21 10:00:00 to 2026-03-21 10:00:00
+Recommendation: Investigate gradual consumption increase; review the meter trend and operating schedule. Potential excess is 9.0 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-E,gradual_drift,2026-03-22,2026-03-22 01:00:00,2026-03-22 23:00:00,3,31.659,9.497699999999998,12.6636,gradual consumption increase,"Building: Building-E
+Window: 2026-03-22 01:00:00 to 2026-03-22 23:00:00
+Recommendation: Investigate gradual consumption increase; review the meter trend and operating schedule. Potential excess is 31.7 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-E,gradual_drift,2026-03-23,2026-03-23 01:00:00,2026-03-23 23:00:00,3,33.479,10.043699999999998,13.391599999999999,gradual consumption increase,"Building: Building-E
+Window: 2026-03-23 01:00:00 to 2026-03-23 23:00:00
+Recommendation: Investigate gradual consumption increase; review the meter trend and operating schedule. Potential excess is 33.5 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-E,gradual_drift,2026-03-24,2026-03-24 02:00:00,2026-03-24 21:00:00,7,77.02200000000002,23.106600000000004,30.808800000000005,gradual consumption increase,"Building: Building-E
+Window: 2026-03-24 02:00:00 to 2026-03-24 21:00:00
+Recommendation: Investigate gradual consumption increase; review the meter trend and operating schedule. Potential excess is 77.0 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-E,gradual_drift,2026-03-25,2026-03-25 01:00:00,2026-03-25 23:00:00,11,133.4945,40.04834999999999,53.3978,gradual consumption increase,"Building: Building-E
+Window: 2026-03-25 01:00:00 to 2026-03-25 23:00:00
+Recommendation: Investigate gradual consumption increase; review the meter trend and operating schedule. Potential excess is 133.5 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-E,gradual_drift,2026-03-26,2026-03-26 01:00:00,2026-03-26 21:00:00,8,98.07300000000001,29.4219,39.229200000000006,gradual consumption increase,"Building: Building-E
+Window: 2026-03-26 01:00:00 to 2026-03-26 21:00:00
+Recommendation: Investigate gradual consumption increase; review the meter trend and operating schedule. Potential excess is 98.1 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-E,gradual_drift,2026-03-27,2026-03-27 00:00:00,2026-03-27 23:00:00,15,201.18399999999997,60.35519999999999,80.47359999999999,gradual consumption increase,"Building: Building-E
+Window: 2026-03-27 00:00:00 to 2026-03-27 23:00:00
+Recommendation: Investigate gradual consumption increase; review the meter trend and operating schedule. Potential excess is 201.2 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-E,gradual_drift,2026-03-28,2026-03-28 00:00:00,2026-03-28 22:00:00,14,200.196,60.05879999999999,80.0784,gradual consumption increase,"Building: Building-E
+Window: 2026-03-28 00:00:00 to 2026-03-28 22:00:00
+Recommendation: Investigate gradual consumption increase; review the meter trend and operating schedule. Potential excess is 200.2 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-E,gradual_drift,2026-03-29,2026-03-29 01:00:00,2026-03-29 23:00:00,10,140.78699999999998,42.23609999999999,56.3148,gradual consumption increase,"Building: Building-E
+Window: 2026-03-29 01:00:00 to 2026-03-29 23:00:00
+Recommendation: Investigate gradual consumption increase; review the meter trend and operating schedule. Potential excess is 140.8 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-E,gradual_drift,2026-03-30,2026-03-30 00:00:00,2026-03-30 23:00:00,16,253.27200000000002,75.9816,101.3088,gradual consumption increase,"Building: Building-E
+Window: 2026-03-30 00:00:00 to 2026-03-30 23:00:00
+Recommendation: Investigate gradual consumption increase; review the meter trend and operating schedule. Potential excess is 253.3 kWh. Confirm on site before changing controls.",True,template_no_llm_configured
+Building-E,gradual_drift,2026-03-31,2026-03-31 02:00:00,2026-03-31 22:00:00,11,168.425,50.527499999999996,67.37,gradual consumption increase,"Building: Building-E
+Window: 2026-03-31 02:00:00 to 2026-03-31 22:00:00
+Recommendation: Investigate gradual consumption increase; review the meter trend and operating schedule. Potential excess is 168.4 kWh. Confirm on site before changing controls.",True,template_no_llm_configured

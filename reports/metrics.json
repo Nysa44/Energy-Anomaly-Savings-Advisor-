@@ -1,0 +1,19 @@
+{
+  "readings": 10800,
+  "buildings": 5,
+  "injected_fault_types": 3,
+  "fault_types_caught": 3,
+  "fault_type_detection_rate": 1.0,
+  "true_positive_readings": 168,
+  "false_positive_readings": 0,
+  "false_negative_readings": 399,
+  "precision": 1.0,
+  "recall": 0.2962962962962963,
+  "false_alerts_per_week": 0.0,
+  "flagged_readings": 168,
+  "estimated_excess_kwh_in_alerts": 2994.99,
+  "estimated_savings_aed": 898.5,
+  "estimated_co2e_kg": 1197.99,
+  "tariff_aed_per_kwh_assumption": 0.3,
+  "emission_factor_kg_co2e_per_kwh_assumption": 0.4
+}

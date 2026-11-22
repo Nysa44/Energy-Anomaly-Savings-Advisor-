@@ -1,0 +1,1 @@
+Pipeline: PASS (exit code 0)\nPytest: PASS (8 passed)\nCommand: python -m src.pipeline\nCommand: python -m pytest -q\nSeed: 42\n
